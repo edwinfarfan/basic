@@ -1,4 +1,4 @@
-package com.courses.java8.basic2;
+package com.courses.java8.operationStatement;
 
 /**
  * The aggregation is when there is no is-a relationship.

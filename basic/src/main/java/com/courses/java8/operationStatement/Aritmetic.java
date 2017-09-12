@@ -1,4 +1,4 @@
-package com.courses.java8.basic2;
+package com.courses.java8.operationStatement;
 
 /**
  * Numeric Promotion Rules
